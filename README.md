@@ -2,4 +2,4 @@
 
 # Description
 
-This project aims to redesign the access experience for car users through a simple light feedback.
+Redesigning the access experience for car users through a simple light feedback.
